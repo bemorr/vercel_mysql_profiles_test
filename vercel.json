@@ -1,0 +1,7 @@
+{
+    "env": {
+      "MYSQL_HOST": "@mysql_host",
+      "MYSQL_USER": "@mysql_user",
+      "MYSQL_DATABASE": "@mysql_database"
+    }
+  }
