@@ -11,7 +11,7 @@ ProfilePage.getInitialProps = async ({ req, query }) => {
   const json = await res.json()
   return json
 }
-
+// comment to force vercel redeploy
 function ProfilePage({ profile }) {
   return (
     <>
